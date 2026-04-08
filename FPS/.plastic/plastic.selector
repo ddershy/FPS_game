@@ -1,0 +1,4 @@
+repository "FPS@dershy@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
